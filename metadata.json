@@ -1,0 +1,8 @@
+{
+  "name": "Remix Exam Pilot",
+  "description": "Nigerian exam preparation app for WAEC, JAMB UTME, and NECO with structured study notes, topic quizzes, timed CBT mock exams, and device-local progress tracking ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
